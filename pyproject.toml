@@ -6,7 +6,6 @@ build-backend = "hatchling.build"
 name = "sagittal_average"
 version = "0.1.0"
 description = "A package to compute sagittal brain averages"
-readme = "README.md"
 authors = [
   { name = "Charlene", email = "charlene@example.com" }
 ]
