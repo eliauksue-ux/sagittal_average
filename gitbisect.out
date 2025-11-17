@@ -1,0 +1,4 @@
+running  'python' 'squares.py' '2'
+python: can't open file '/Users/solitude/Desktop/Python/sagittal_average/squares.py': [Errno 2] No such file or directory
+d8bc3ebaecd0cc7a2872da4c81d30b56f9b746ad was both good and bad
+error: bisect run failed: 'git bisect--helper --bisect-state bad' exited with error code -1
