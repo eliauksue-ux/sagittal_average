@@ -1,0 +1,17 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "sagittal_average"
+version = "0.1.0"
+description = "A package for computing sagittal averages."
+readme = "README.md"
+authors = [
+  { name = "Charlene", email = "charlene@example.com" },
+]
+license = { text = "MIT" }
+dependencies = []
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/sagittal_average"]
